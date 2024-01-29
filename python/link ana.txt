@@ -1,0 +1,279 @@
+https://200lab.io/blog/top-10-kenh-youtube-dang-xem-ve-data-analytics/?fbclid=IwAR2I_yZ7qoWXWE7sV_hGYIGdDMyT9NquoUbtkkLxr8OwKBwsy8w5U8v5VFg
+#################################################################################################
+DE Session #1 Sau 2 tháng học bạn dự kiến sẽ hoàn thành các kỹ năng DE gì? https://www.facebook.com/dathoc.net/videos/482914063238266
+DE Session #2 Nội dung từng tuần học https://www.facebook.com/dathoc.net/videos/266071022376820
+DE Session #3 Cơ bản quy trình DE https://www.facebook.com/dathoc.net/videos/455902709570541
+DE Session #4 Kỹ năng mềm, đạo đức nghề nghiệp https://www.facebook.com/dathoc.net/videos/356295216359700
+DE Session #5 Ví dụ một số bài toán và cách tiếp cận DE https://www.facebook.com/dathoc.net/videos/660378911745147
+DE Session #6 Cơ bản cấu hình môi trường ảo, ssh, docker, jupyter notebook...https://www.facebook.com/dathoc.net/videos/1332836350530972
+DE Session #7 Cơ bản cấu hình RDBMS và NoSQL DB https://www.facebook.com/dathoc.net/videos/4755886394528230
+DE Session #8 Ingestion data theo truy vấn SQL https://www.facebook.com/dathoc.net/videos/472215174368399
+DE Session #9 Ingestion data theo SQL to MSSQL https://www.facebook.com/dathoc.net/videos/489114466058608
+.
+.
+DE Session #10 Docker & docker compose https://www.facebook.com/dathoc.net/videos/728425645188591
+DE Session #11 Nifi + Kafka https://www.facebook.com/dathoc.net/videos/987854518481720
+DE Session #12 Crawl sound voice Viet https://www.facebook.com/dathoc.net/videos/331212312292226
+DE Session #13 Crawl web https://www.facebook.com/dathoc.net/videos/534154544950103
+DE Session #14 Crawl image, video https://www.facebook.com/dathoc.net/videos/679467700168589
+DE Session #15 Crawl OCR text, clickstream https://www.facebook.com/dathoc.net/videos/991420481463702
+DE Session #16 SQL DB vs NoSQL DB design https://www.facebook.com/dathoc.net/videos/485082883060029
+DE Session #18 Stream via Kafka https://www.facebook.com/dathoc.net/videos/1176951786447364
+DE Session #17 Review from requirement to DE https://www.facebook.com/dathoc.net/videos/1050846272247803
+DE Session #19 Stream website clicks, view... via Divolte https://www.facebook.com/dathoc.net/videos/714105049915069
+.
+.
+DE Session #20 IT Network & Security for DE https://www.facebook.com/dathoc.net/videos/5620340964649151
+DE Session #21 Retail warehouse design for DE  https://www.facebook.com/dathoc.net/videos/394454662021160
+DE Session #22 Human resource warehouse design for DE https://www.facebook.com/dathoc.net/videos/1927268600807304
+DE Session #23 Xem xét Flink và thuật co cụm data https://www.facebook.com/dathoc.net/videos/1164906870927576
+DE Session #24 Chu chuyển biến đổi làm sạch data, advance crawling data for DE https://www.facebook.com/dathoc.net/videos/3242179526025777
+DE Session #25 Biến đổi làm sạch Spark vs Python cho DE https://www.facebook.com/dathoc.net/videos/285534487086248
+DE Session #26 Deploy cluster with realtime analytics https://www.facebook.com/dathoc.net/videos/1160199648128362
+DE Session #27 Warehouse cho Bank trong DE https://www.facebook.com/dathoc.net/videos/933503337325665
+DE Session #28 Tại sao cần clustering https://www.facebook.com/dathoc.net/videos/722817792055785
+DE Session #29 Implement application monitor kafka stream https://www.facebook.com/dathoc.net/videos/330373438990442
+.
+.
+DE Session #30 Realtime data stream from Kafka, to Canvas visualization    https://www.facebook.com/dathoc.net/videos/566467971246324
+DE Session #31 Python Flask api to webapp https://www.facebook.com/dathoc.net/videos/2862451357381782
+DE Session #32 Spark Akka api to webapp https://www.facebook.com/dathoc.net/videos/1392666361213960
+DE Session #33 Clustering your services https://www.facebook.com/dathoc.net/videos/423312649357585
+DE session #34 Detect và training vật liệu ảnh từ yolov5, https://www.facebook.com/dathoc.net/videos/1428646850949308
+DE session #35 Build frontend, backend for Image data analysis system https://www.facebook.com/dathoc.net/videos/781048019994270
+DE Session #36 Flink, windows method để áp dụng realtime phân tích https://www.facebook.com/dathoc.net/videos/3310818409139398
+#################################################################################################
+Xem phần 0: Kỹ năng chuyên môn, kỹ năng mềm khi làm DA, DE, BI: dathoc.net/skill, phần kỹ năng DA, DE
+Kho sách: dathoc.net/bookda, dathoc.net/bookbig, dathoc.net/bookml
+Xem phần 1 (hài hước các ứng dụng AI được GIẢI gần đây)
+https://www.facebook.com/KoolJ.../posts/10156303253320079
+https://dathoc.net/mod/forum/discuss.php?d=59
+
+Xem phần 2 (danh mục nghề DA)
+https://dathoc.net/mod/forum/discuss.php?d=158
+https://www.facebook.com/KoolJ.../posts/10158252272410079
+
+Xem phần 3 (kho dữ liệu bạn sẽ cần khi theo nghề DA DE)
+https://dathoc.net/kho
+
+Xem phần 4 (hướng đi cách khai phá kiến thức)
+https://dathoc.net/mod/forum/discuss.php?d=76
+https://www.facebook.com/KoolJ.../posts/10157037458490079
+
+Xem phần 5 (sắm máy tính cho học nghề DA DE)
+https://dathoc.net/mod/forum/discuss.php?d=159
+https://www.facebook.com/KoolJ.../posts/10158231691115079
+.
+.
+Xem phần 6 (con đường học DE DA online miễn phí)
+https://dathoc.net/mod/forum/discuss.php?d=79
+https://www.facebook.com/KoolJ.../posts/10157065735130079
+
+Xem phần 7 (tiếp cận làm DA DE tới một business mình chưa biết)
+https://dathoc.net/mod/forum/discuss.php?d=158
+https://www.facebook.com/KoolJ.../posts/10157189094465079
+
+Xem phần 8 (về kiến thức từ Nhà trường)
+https://dathoc.net/mod/forum/discuss.php?d=178
+https://www.facebook.com/dathoc.net/posts/367115148147918
+
+Xem phần 9 (về quan điểm nghề DA DE p1)
+https://dathoc.net/mod/forum/discuss.php?d=180
+https://www.facebook.com/KoolJ.../posts/10157879888165079
+.
+.
+Xem phần 10 (về quan điểm nghề DA DE p2)
+https://dathoc.net/mod/forum/discuss.php?d=140
+https://www.facebook.com/dathoc.net/posts/357351579124275
+
+Xem phần 11 (về kỹ năng nói chung)
+https://dathoc.net/mod/forum/discuss.php?d=142
+https://www.facebook.com/dathoc.net/posts/359272282265538
+
+Xem phần 12 (về input/output nghề)
+https://dathoc.net/mod/forum/discuss.php?d=179
+https://www.facebook.com/dathoc.net/posts/413510576841708
+
+Xem phần 13 (về nhiều khái niệm bị nhập nhằng)
+https://dathoc.net/mod/forum/discuss.php?d=128
+https://www.facebook.com/.../pfbid07ykv2gXFQHSLxh9Ki8kbzH...
+
+Xem phần 14 (về intern job)
+https://dathoc.net/mod/forum/discuss.php?d=140
+https://www.facebook.com/.../8706.../posts/4238291022956298/
+
+Xem phần 15 (về luẩn quẩn nghề)
+https://dathoc.net/mod/forum/discuss.php?d=180
+https://www.facebook.com/KoolJ.../posts/10158424670475079
+
+Xem phần 16 (về DA trong fintech)
+https://dathoc.net/mod/forum/discuss.php?d=150
+https://www.facebook.com/KoolJ.../posts/10157999159970079
+.
+.
+Xem phần 17 (về DA trong dạy học và DA trong thực tế)
+https://dathoc.net/mod/forum/discuss.php?d=181
+https://www.facebook.com/KoolJ.../posts/10158379547730079
+
+Xem phần 18 (về job apply 2022)
+https://dathoc.net/mod/forum/discuss.php?d=161
+https://www.facebook.com/.../8706.../posts/4727484087370320/
+
+Xem phần 19 (về một ngày làm việc DE DA tại Honda Vietnam Vinh Phuc)
+https://dathoc.net/mod/forum/discuss.php?d=129
+https://www.facebook.com/.../pfbid02gcCvfEtTDffYsuM1Rvyg1...
+
+Xem phần 20 (Còn lâu! Không dễ thế đâu!)
+https://dathoc.net/mod/forum/discuss.php?d=182
+https://www.facebook.com/.../pfbid0356q7eJx9X2dJkAM4vnxNJ...
+
+Xem phần 21 (Bigdata và Bảo mật an toàn thông tin)
+https://dathoc.net/mod/forum/discuss.php?d=183
+https://www.facebook.com/dathoc.net/posts/563939475132150
+
+Xem phần 22: 03 bài về kỹ thuật xử lý Datawarehouse
+Phần 1: https://www.facebook.com/dathoc.net/posts/455100549349377
+Phần 2: https://www.facebook.com/dathoc.net/posts/455154596010639
+Phần 3: https://www.facebook.com/dathoc.net/posts/455704362622329
+https://www.facebook.com/.../pfbid029pZfWS7a5G668pTgGKigT...
+https://dathoc.net/mod/forum/discuss.php?d=156
+
+Xem phần 23: các bài viết về kỹ thuật crawl data _- Luậ.t Việ.t Na.m về v.i p.hạ.m đờ.i t.ư thông t.in c.á nhâ.n
+- Types of crawl
+https://www.facebook.com/.../pfbid0SPWEGvvgEJ8zYGteMjxqfs...
+- Cleanse data
+https://www.facebook.com/.../pfbid02x4DgaeYqi5zgkWiuK9obP...
+- Banning-ip crawling
+https://www.facebook.com/.../8706.../posts/4200504130068321/
+-Agains-law
+https://www.facebook.com/.../pfbid035YDgyab1NPF6pUpj66QRd...
+
+Xem phần 24: các bài viết về kỹ thuật nlp xử lý ngôn ngữ tự nhiên
+- Chat bot
+https://www.facebook.com/.../8706.../posts/2691526427632773/
+- Sentiment text
+https://www.facebook.com/.../pfbid02h1jo3q43Soxvnn47Gch2g...
+- Bad/Good words
+https://www.facebook.com/.../pfbid0YH1EJfywF1z52g3E79WF9k...
+
+#################################################################################################
+https://www.facebook.com/groups/870665749718859/permalink/5538877656230955/
+Thuật toán CNN
+#################################################################################################
+https://www.facebook.com/groups/870665749718859/permalink/5536145796504141/
+Cấu trúc dữ liệu NOTE
+#################################################################################################
+https://tek4.vn/khoa-hoc/lap-trinh-python-can-ban?fbclid=IwAR2I_yZ7qoWXWE7sV_hGYIGdDMyT9NquoUbtkkLxr8OwKBwsy8w5U8v5VFg
+python cơ bản
+#################################################################################################
+https://4technews.net/12-extension-cho-vscode-can-thiet-cho-khoa-hoc-du-lieu/?fbclid=IwAR0LvOSXT9G-qGsmpqHvgT93HaOaID-oJbY6qy2BbRrndBDNp4qfs8xuLIo
+extension cho visualstudio code 
+#################################################################################################
+https://theappsblaster.com/?cat=331&fbclid=IwAR30spPhHirnHqaFbm8aYN3XotobHzhXVJmy5DZuv3Q6ezRHeJ9EG7wtGpI
+#################################################################################################
+https://www.facebook.com/groups/ltpython/permalink/1474028859757662/
+python tổng hợp
+#################################################################################################
+https://buyfreecourse.com/?fbclid=IwAR0T_3n4visMm-foMZ4JtghBP6Gbq2-QcKnPTVh0fBhg5EOyz8lyuF87_L0
+free course
+#################################################################################################
+https://www.facebook.com/N%C6%A1i-%C4%90am-M%C3%AA-Chia-S%E1%BA%BD-Ki%E1%BA%BFn-Th%E1%BB%A9c-K%E1%BB%B9-Thu%E1%BA%ADt-105875161210918/
+kiến thức python
+#################################################################################################
+BEST FREE COURSES ON YOUTUBE FROM TOP UNIVERSITIES TO LEARN AI, ML, DL, NLP, CV
+👉𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+1. Introduction to Machine Learning (by University of Tübingen)
+🌀http://bit.ly/3Ji7QlS
+2. CS229: Machine Learning (by Stanford University)
+🌀http://bit.ly/408g7yY
+4. Applied Machine Learning (by Cornell University)
+🌀http://bit.ly/3DjhpNv
+5. Statistical Machine Learning (by University of Tübingen)
+🌀http://bit.ly/3wwZcIu
+7. Deep Reinforcement Learning (by UC Berkeley)
+🌀https://bit.ly/3DiUq58
+8. CS234 Reinforcement Learning (by Stanford University)
+🌀https://bit.ly/3XIYROW
+9. Machine Learning Engineering for Production (MLOps) (by DeepLearning.AI)
+🌀https://bit.ly/3HzHuKL
+👉𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+1. Introduction to Deep Learning (by MIT)
+🌀https://bit.ly/3wS4nTT
+2. Introduction to Deep Learning (by Carnegie Mellon University)
+🌀https://bit.ly/3DkZwy2
+3. Deep Learning for Art, Aesthetics, and Creativity (by MIT)
+🌀https://bit.ly/3kRrECg
+4. CS230: Deep Learning (by Stanford Univeristy)
+🌀https://bit.ly/3WWJUb7
+5. Deep Unsupervised Learning (by UC Berkeley)
+🌀https://bit.ly/404T5J7
+6. Deep Learning (by New York University)
+🌀https://bit.ly/3WIKBEP
+7. Foundation Models (by Stanford University)
+🌀https://bit.ly/3jcGYJt
+8. Full Stack Deep Learning (by UC Berkeley)
+🌀https://bit.ly/3HC5qNy
+👉𝐍𝐚𝐭𝐮𝐫𝐚𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠
+1. NLP Course (by Hugging Face)
+🌀https://bit.ly/3j3srzP
+2. CS224U Natural Language Understanding (by Stanford Univeristy)
+🌀https://bit.ly/3Ji9nIE
+3. Advanced NLP 2022 (by Carnegie Mellon University)
+🌀https://bit.ly/3WIa3u1
+4. Multilingual NLP (by Carnegie Mellon University)
+🌀https://bit.ly/4083nIj
+5. Advanced NLP (by University of Massachusetts Amherst)
+🌀https://bit.ly/3jgxcpw
+👉𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧
+1. Deep Learning for Computer Vision (by University of Michigan)
+🌀https://bit.ly/3Retjht
+2. Convolutional Neural Networks for Visual Recognition (by Stanford Univeristy)
+🌀https://bit.ly/3WGbEAC
+3. Deep Learning for Visual Computing (by Indian Institute of Technology Kharagpur)
+🌀http://bit.ly/3R9cvbI
+#################################################################################################
+3 websites tạo DATASET để build [Data Analytics Portfolio] đỉnh của chóp:
+mockaroo.com
+generatedata.com
+databasetestdata.com
+#################################################################################################
+PYTHON MACHINE LEARNING:
+https://github.com/community/community?fbclid=IwAR3ZULPTHT_-7Fip8JrC4AvMr-CI9tQPno6f8U502Lpah98_h0A_6Si1RWU
+https://github.com/josephmisiti/awesome-machine-learning?fbclid=IwAR2uLedl1QcO8NWwTg5rGkXCPgPpsd3O-YjXktxN9Oh9U3BLP9gilpEm4vI
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials?fbclid=IwAR1VPSC3j287QE70pmsYH4BneXeK6KCy7dIvN5VGyvK6ZMp9l_3WE7xcPBs
+https://github.com/ml-tooling/best-of-ml-python?fbclid=IwAR1Xnl4rBzyJ2KZmZZbthTFl8EdTgW-NV5ALuRTbXyZI-12_6XgHzoBU7QU
+https://github.com/aymericdamien/TensorFlow-Examples?fbclid=IwAR2cpS6bJ4LcMFZs9X2_L0lceR9Uj_QRkYiy1spBnUgJ82L4ajX6KfOatxc
+https://github.com/lukas/ml-class?fbclid=IwAR3LJQXgeqVp2MVgN9vboYDYHCuFiNck4KeEd12NRl8_pZ_pBRk1tNdaFOc
+https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects?fbclid=IwAR0WsWhmFAZwwAoWfycHGpLLurwJYyn9PHFnF8SmhvGhe-QQJd3JXBgvAOE
+https://github.com/khangich/machine-learning-interview?fbclid=IwAR3_bx58Sguln54pEX3mxftlyDhCAYZSO2RN6Gd5OPljqNZzfbZrQBZnl94
+#################################################################################################
+Các nguồn cung cấp data miễn phí cho Machine Learning và Deep Learning
+Free Datasets for Machine Learning and Deep Learning
+1. Google Dataset Search – A search engine for datasets:   https://datasetsearch.research.google.com/
+2. IBM’s collection of datasets for enterprise applications:  https://developer.ibm.com/exchanges/data/ 
+3. Kaggle Datasets: https://www.kaggle.com/datasets 
+4. Huggingface Datasets – A Python library for loading NLP datasets: https://github.com/huggingface/datasets 
+5. A large list organized by application domain: https://github.com/awesomedata/awesome-public-datasets
+6. Computer Vision Datasets (a really large list): https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
+7. Datasetlist – Datasets by domain: https://www.datasetlist.com/
+8. OpenML – A search engine for curated datasets and workflows: https://www.openml.org/search?type=data   
+9. Papers with Code – Datasets with benchmarks: https://www.paperswithcode.com/datasets
+10. Penn Machine Learning Benchmarks: https://github.com/EpistasisLab/pmlb/tree/master/datasets
+11. UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php
+12. VisualDataDiscovery (for Computer Vision): https://www.visualdata.io/discovery
+13. Roboflow Public Datasets for computer vision: https://public.roboflow.com/
+#################################################################################################
+Kho tàng tổng hợp 800 khoá học miễn phí về Computer Science
+Bài viết tổng hợp khoá học của các chủ đề:
+https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR1hK2-VwTnmhTBCiCQb-0kwCD4-TWPy1_FY9sbGMque1cNKKGVTI2FOCZw
+#################################################################################################
+https://nguyenhuynh201.github.io/NguyenHuynh/?fbclid=IwAR3GHd6GEjrEidyWkCH3Op1pdwo-8iR7SlJGh1s7mU_2nIDcLUWKASsRJ8c
+#################################################################################################
+https://theappsblaster.com/?cat=327&paged=2&fbclid=IwAR0D7kskgkEED3__iLIvDrhusls_K8wG8p2Qc9R31wY4hGgqUDEcGgo0GQ8
+#################################################################################################
+https://www.youtube.com/@CODE_ROOM
+#################################################################################################
+[Project khóa Python for Data Science]: https://drive.google.com/drive/folders/1m3y1ocN47gqnQs-vZT4aG4j9FLS5NO0J
+#################################################################################################
+https://en.connect4techs.com/python-modules-session-24-pdf/?fbclid=IwAR1Fn1yyWWx1_pPEql7vBKhHN44sZ7vcjMAusLzFpCx4IiNX1NwD87q6Y4Q
+#################################################################################################
